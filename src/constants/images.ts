@@ -1,6 +1,6 @@
 export const IMAGES = {
-  background: require('../assets/images/background.png'),
-  splash: require('../assets/images/splash.png'),
+  background: require('../assets/newDiz/bg3.jpg'),
+  splash: require('../assets/newDiz/bg1.png'),
   avatar: require('../assets/images/avatar.png'),
   game: require('../assets/images/game.png'),
   crown: require('../assets/images/crown.png'),

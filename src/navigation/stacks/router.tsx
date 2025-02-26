@@ -16,10 +16,10 @@ export function Router() {
 
     checkTime();
   }, []);
-
+//<NavigationContainer></NavigationContainer>
   return (
-    <NavigationContainer>
+    
       <MainStack />
-    </NavigationContainer>
+    
   );
 }
